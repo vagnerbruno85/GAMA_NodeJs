@@ -1,0 +1,29 @@
+{
+  "name": "gama-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto realizado na aula de nodejs da GAMA Academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vagnerbruno85/GAMA_NodeJs.git"
+  },
+  "keywords": [
+    "Requisição",
+    "perguntas",
+    "respostas",
+    "acesso",
+    "url"
+  ],
+  "author": "Vagner Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vagnerbruno85/GAMA_NodeJs/issues"
+  },
+  "homepage": "https://github.com/vagnerbruno85/GAMA_NodeJs#readme",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
